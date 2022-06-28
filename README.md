@@ -1,16 +1,16 @@
-# BookSearchEngine
+# My Books
 
 ## Description
 
-This application allows one to search for and save books with their account credentials.  This application was made using MERN: a combination of MongoDB, Express.js, React, and Node.js.  No challenges were faced in creating this application.  In the future, I would like to make this application more visually appealing.
+This application allows one to search for and save a list of books by using their account credentials.  This application was made using MERN: a combination of MongoDB, Express.js, React, and Node.js.  No challenges were faced in creating this application.  In the future, I would like to make this application more visually appealing.
 
 ## Installation
 
-To use this application, one must first install an Apollo Server as well as GraphQL. Then they can follow along using this live link: 
+To use this application, one must first install an Apollo Server as well as GraphQL.  Then they can follow along using this link: 
 
 ## Usage
 
-One can use this application to search for and save books using their account credentials.
+One can use this application to search for and save books using their account credentials, thus creating a list of books for them to buy.
 
 ## Credits
 
