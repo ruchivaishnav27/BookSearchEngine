@@ -6,7 +6,7 @@ This application allows one to search for and save a list of books by using thei
 
 ## Installation
 
-To use this application, one must first install an Apollo Server as well as GraphQL.  Then they can follow along using this link: 
+To use this application, one must first install an Apollo Server as well as GraphQL.  
 
 ## Usage
 
